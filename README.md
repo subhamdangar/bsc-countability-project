@@ -4,7 +4,7 @@ Bankura Christian College, Bankura University
 **Submitted by:** Subham Dangar
 
 ## 📄 Project Report
-- [Download PDF](A_Study_on_Countability.pdf)
+- [Download PDF]([A_Study_on_Countability.pdf](https://github.com/subhamdangar/bsc-countability-project/blob/main/A%20STUDY%20OF%20COUNTABILITY.pdf))
 
 ## 📘 Summary
 This project explores concepts of:
